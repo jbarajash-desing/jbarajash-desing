@@ -16,6 +16,6 @@ I am eager to leverage my skills and knowledge to drive innovation and excellenc
 
 ###
 
-<p align="left">I'm from Colombia <br><br>- 🔭 I’m working as Engineering <br>- 📚 I'm currently learning <br>- ⚡ In my free time I read</p>
+<p align="left">I'm from Colombia <br><br>- 🔭 I’m working as Engineer <br>- 📚 I'm currently learning <br>- ⚡ In my free time I read</p>
 
 ###
