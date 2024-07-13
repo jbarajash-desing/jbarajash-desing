@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="imagen 1" alt="My Image" />
+  <img src="imagen 1.jpg" alt="My Image" />
 </div>
 
 
