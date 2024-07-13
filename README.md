@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imagen presentacion.jpg" alt="My Image" />
+  <img src="Johan Barajas.jpg" alt="My Image" />
 </div>
 
 
