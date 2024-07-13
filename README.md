@@ -3,7 +3,13 @@
 
 ###
 
-<h1 align="center">Johan Barajas</h1>
+<div align="center">
+  <div style="background: linear-gradient(to right, #4e54c8, #8f94fb); padding: 20px; border-radius: 10px;">
+    <h1 style="color: white;">Johan Barajas</h1>
+  </div>
+</div>
+
+
 
 ###
 
