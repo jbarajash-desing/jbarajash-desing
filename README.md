@@ -1,13 +1,12 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<div align="center">
+  <img src="images/my-image.png" alt="My Image" />
 </div>
-
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
 </div>
 
 ###
@@ -22,8 +21,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  A</h3>
+<h3 align="left">👩‍💻  About me</h3>
+I am a dedicated Mechatronics Engineering student with a strong passion for integrating mechanical, electronic, and software systems. As an aspiring professional in this field, I strive to blend my technical expertise with innovative problem-solving skills to design and develop advanced robotic and automation systems.
 
+Throughout my academic journey, I have gained comprehensive knowledge in areas such as robotics, control systems, and embedded systems. I am proficient in programming languages like  Python,javascript,java,html, and linux, and I have hands-on experience with CAD software and PLC programming.
+
+My professional experience includes  projects where I have collaborated with multidisciplinary teams to tackle complex engineering challenges. I am committed to continuous learning and staying updated with the latest technological advancements to contribute effectively to the field of mechatronics.
+
+I am eager to leverage my skills and knowledge to drive innovation and excellence in engineering, aiming to create solutions that enhance efficiency and improve the quality of life.
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
