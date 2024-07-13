@@ -2,7 +2,7 @@
 <div align="center">
   <img src="images/my-image.png" alt="My Image" />
 </div>
-###
+
 
 
 
