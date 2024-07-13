@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="imagen 1.jpg" alt="My Image" />
-</div>
 
 <div align="center" style="background: #4e54c8; padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">Johan Barajas</h1>
