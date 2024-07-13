@@ -1,9 +1,3 @@
-<div align="center">
-<div align="center">
-  <img src="imagen 1.jpg" alt="My Image" />
-</div>
-
-
 
 
 
